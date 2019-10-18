@@ -1,0 +1,1 @@
+app.use(express.static('assets'));//asets to katalog w kotrym trzymam css  zdjecia
